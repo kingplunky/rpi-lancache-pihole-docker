@@ -1,0 +1,6 @@
+[submodule "monolithic"]
+	path = monolithic
+	url = https://github.com/lancachenet/monolithic
+[submodule "lancache-dns"]
+	path = lancache-dns
+	url = https://github.com/lancachenet/lancache-dns
